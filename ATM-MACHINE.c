@@ -1,12 +1,3 @@
-/*
-
-Nama        :MUHAMMAD AIMAN BIN MAHADI
-Fakulti     :FSKTM
-Universiti  :UTHM
-
-*/
-
-
 #include <stdio.h>
 int main()
 {
@@ -91,4 +82,5 @@ int main()
         );
 
   return 0;
+
 }
